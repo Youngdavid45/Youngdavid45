@@ -3,8 +3,6 @@ Start.ng fisrt Github task
 <!DOCTYPE html>
 <html>
   <head>
-    <title>
-    </title>
   </head>
   <body>
     <h1>Full name: Farinde Ayowole David</h1>
