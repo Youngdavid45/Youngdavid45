@@ -4,7 +4,6 @@ Start.ng fisrt Github task
 <html>
   <head>
     <title>
-      Youngdavid45_first_start.ng_github_task
     </title>
   </head>
   <body>
